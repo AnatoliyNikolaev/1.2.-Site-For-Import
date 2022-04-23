@@ -4,7 +4,7 @@ _backup old
 *_old
 *_backup old
 # проигнорировать файлы Thumbs.db и .DS_Store
-Thumbs.db
-.DS_Store
+*Thumbs.db
+*.DS_Store
 # файлы, находящиеся в подкаталоге tmp
 tmp/ 
